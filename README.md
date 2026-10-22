@@ -68,7 +68,7 @@ The table below catalogs premier commercial SaaS platforms, ranked in **descendi
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-The following open-source solutions provide self-hosted freedom, data ownership, zero per-seat licensing penalties, and transparent extensibility. Repositories are sorted in **descending order by GitHub star count**.
+The following open-source solutions provide self-hosted freedom, data ownership, zero per-seat licensing penalties, and transparent extensibility. Repositories are sorted in **descending order by GitHub Stars_Count**.
 
 ---
 
